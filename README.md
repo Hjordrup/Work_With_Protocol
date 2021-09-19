@@ -1,4 +1,4 @@
-#Basis chat server and Client. 
+# Basis chat server and Client. 
 - The Server starts a Thread pool with 500Threads. 
 - The Server starts a ServerSocket with port 8080. 
 - The Server Starts to listen on port 8080. 
